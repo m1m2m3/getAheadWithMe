@@ -1,4 +1,10 @@
 Interview Questions
+DNS query and recursion
+VDI slow login performance
+PDC Role
+Slow system performance: reasons and troubleshooting tools/steps
+Routing and switching concepts
+Network and system security
 1. What happens when you are accessing the internet
 2. Where is DNS configured on Linux
 3. if DNS does not work, what happens.
